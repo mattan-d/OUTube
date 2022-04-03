@@ -1,0 +1,16 @@
+{
+  "web": {
+    "client_id": "549553533039-80qldlbj8gslni42i8463g76hg2q1pgh.apps.googleusercontent.com",
+    "project_id": "poetic-primer-244606",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "https://dev.youtube/callback.php"
+    ],
+    "javascript_origins": [
+      "https://dev.youtube"
+    ]
+  }
+}

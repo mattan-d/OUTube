@@ -1,0 +1,1399 @@
+{
+  "etag": "dcYQIQZgvf5umg9CN2ukupgwvyo",
+  "eventId": null,
+  "kind": "youtube#playlistItemListResponse",
+  "nextPageToken": null,
+  "prevPageToken": null,
+  "visitorId": null,
+  "items": [
+    {
+      "etag": "cfMfwojYG0IPmF92u88H3vJG0Xc",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5DNzE1RjZEMUZCMjA0RDBB",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 - \u05e8\u05e6\u05d7-\u05e2\u05dd\"  \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05d7\u05d9\u05e0\u05de\u05d9 \u05e4\u05ea\u05d5\u05d7 \u05dc\u05e6\u05d9\u05d1\u05d5\u05e8 \u05d4\u05e8\u05d7\u05d1 \u05e9\u05dc \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4. \u05dc\u05dc\u05d0 \u05d3\u05e8\u05d9\u05e9\u05d5\u05ea \u05e7\u05d3\u05dd \u05d5\u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9.\n\u05de\u05d5\u05e2\u05d3 \u05d4\u05e4\u05ea\u05d9\u05d7\u05d4: 1.1.2015\n\u05dc\u05de\u05d9\u05d3\u05e2 \u05e0\u05d5\u05e1\u05e3 \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/index_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 0,
+        "publishedAt": "2014-12-15T16:23:28Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd) - \u05d4\u05d6\u05de\u05e0\u05d4 \u05dc\u05e7\u05d5\u05e8\u05e1",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/299ZcQpYekA\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/299ZcQpYekA\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/299ZcQpYekA\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/299ZcQpYekA\/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "299ZcQpYekA"
+        }
+      }
+    },
+    {
+      "etag": "K3hjkBZqsy9_mDeDcdgVxY5HBBs",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5DMkU4NTY1QUFGQTYwMDE3",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 1,
+        "publishedAt": "2014-12-29T07:59:18Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 1 \u05d4\u05e8\u05e6\u05d0\u05d4 1: \u05de\u05d1\u05d5\u05d0",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/gfKGGSdnSYU\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/gfKGGSdnSYU\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/gfKGGSdnSYU\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/gfKGGSdnSYU\/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "gfKGGSdnSYU"
+        }
+      }
+    },
+    {
+      "etag": "HK1N2xc7128-rK5mopeM2iOewyo",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy44Mjc5REFBRUE2MTdFRDU0",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 2,
+        "publishedAt": "2014-12-29T07:59:18Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 1 \u05d4\u05e8\u05e6\u05d0\u05d4 2: \u05d0\u05de\u05e0\u05ea \u05d4\u05d0\u05d5\"\u05dd \u05dc\u05de\u05e0\u05d9\u05e2\u05ea \u05d4\u05e4\u05e9\u05e2 \u05e8\u05e6\u05d7 \u05e2\u05dd",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/2XA4SD6SNvg\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/2XA4SD6SNvg\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/2XA4SD6SNvg\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/2XA4SD6SNvg\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/2XA4SD6SNvg\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "2XA4SD6SNvg"
+        }
+      }
+    },
+    {
+      "etag": "8EBR5VnBzGIDTDKA4CBfOOXwB38",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy43NDhFRTgwOTRERTU4Rjg3",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 3,
+        "publishedAt": "2014-12-29T07:59:18Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 1 \u05d4\u05e8\u05e6\u05d0\u05d4 5: \u05e8\u05d0\u05d9\u05d5\u05df \u05e2\u05dd \u05e4\u05e8\u05d5\u05e4'\u05d9 \u05d9\u05d0\u05d9\u05e8 \u05d0\u05d5\u05e8\u05d5\u05df",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/lvfuhdpjDOE\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/lvfuhdpjDOE\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/lvfuhdpjDOE\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/lvfuhdpjDOE\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/lvfuhdpjDOE\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "lvfuhdpjDOE"
+        }
+      }
+    },
+    {
+      "etag": "mKpc9ONrwp4tcd_48R2VMaM7Wcc",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy41QUZGQTY5OTE4QTREQUU4",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 4,
+        "publishedAt": "2014-12-29T07:59:18Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 2 \u05d4\u05e8\u05e6\u05d0\u05d4 1: \u05de\u05d1\u05d5\u05d0 \u05dc\u05e0\u05d5\u05e9\u05d0 \u05d4\u05e9\u05d1\u05d5\u05e2",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/E3rOHjeKN1I\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/E3rOHjeKN1I\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/E3rOHjeKN1I\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/E3rOHjeKN1I\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/E3rOHjeKN1I\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "E3rOHjeKN1I"
+        }
+      }
+    },
+    {
+      "etag": "mebnZLEaCE-6ZCTP9BVNsAdH9DQ",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy4zRDBDOEZDOUM0MDY5NEEz",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 5,
+        "publishedAt": "2014-12-29T07:59:18Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 4 \u05d4\u05e8\u05e6\u05d0\u05d4 2: \u05e6\u05d5\u05e2\u05e0\u05d9\u05dd \u05d5\u05d0\u05d9\u05e8\u05d5\u05e4\u05d9\u05dd \u05d1\u05de\u05d0\u05d4 \u05d4-19: \u05d4\u05d0\u05d7\u05e8 \u05e9\u05d1\u05ea\u05d5\u05db\u05e0\u05d5",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/wtiIksJ5ivM\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/wtiIksJ5ivM\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/wtiIksJ5ivM\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/wtiIksJ5ivM\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/wtiIksJ5ivM\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "wtiIksJ5ivM"
+        }
+      }
+    },
+    {
+      "etag": "Q5QIj-NgyVx_NhgiBIQBsI1SlKE",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 6,
+        "publishedAt": "2014-12-29T07:59:18Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 2 \u05d4\u05e8\u05e6\u05d0\u05d4 2: \u05e7\u05d5\u05dc\u05d5\u05e0\u05d9\u05d0\u05dc\u05d9\u05d6\u05dd \u05d5\u05d2\u05d6\u05e2\u05e0\u05d5\u05ea \u05de\u05d5\u05d3\u05e8\u05e0\u05d9\u05ea",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/7w1CKG6QN4k\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/7w1CKG6QN4k\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/7w1CKG6QN4k\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/7w1CKG6QN4k\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/7w1CKG6QN4k\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "7w1CKG6QN4k"
+        }
+      }
+    },
+    {
+      "etag": "LzUV3FyaAOo-YT1HF9z_07Bd_4U",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy42MTI4Njc2QjM1RjU1MjlG",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 7,
+        "publishedAt": "2014-12-29T07:59:19Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 2 \u05d4\u05e8\u05e6\u05d0\u05d4 4:  1994- \u05d4\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 \u05d1\u05e8\u05d5\u05d0\u05e0\u05d3\u05d4",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/iYYapLmyGWI\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/iYYapLmyGWI\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/iYYapLmyGWI\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/iYYapLmyGWI\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/iYYapLmyGWI\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "iYYapLmyGWI"
+        }
+      }
+    },
+    {
+      "etag": "Ar4VO2qjGm3fKg4OQDF57dbP_E0",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy45RjNFMDhGQ0Q2RkFCQTc1",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 8,
+        "publishedAt": "2014-12-29T07:59:19Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 4 \u05d4\u05e8\u05e6\u05d0\u05d4 5: \u05e6\u05d5\u05e2\u05e0\u05d9\u05dd - \u05e8\u05e6\u05d7 \u05e2\u05dd",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/7Ab2xCQzVL0\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/7Ab2xCQzVL0\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/7Ab2xCQzVL0\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/7Ab2xCQzVL0\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/7Ab2xCQzVL0\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "7Ab2xCQzVL0"
+        }
+      }
+    },
+    {
+      "etag": "UW7CyC5QxpZV5aAm7_kBJQTPzxU",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy40QTA3NTU2RkM1QzlCMzYx",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 9,
+        "publishedAt": "2014-12-29T07:59:19Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 5 \u05d4\u05e8\u05e6\u05d0\u05d4 1: \u05de\u05d1\u05d5\u05d0 - \u05d0\u05de\u05e8\u05d9\u05e7\u05d4 \u05d4\u05e1\u05e4\u05e8\u05d3\u05d9\u05ea",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/XXwf75dC4e0\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/XXwf75dC4e0\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/XXwf75dC4e0\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/XXwf75dC4e0\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/XXwf75dC4e0\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "XXwf75dC4e0"
+        }
+      }
+    },
+    {
+      "etag": "ppvigJXUuH5GTdIIhHwCG7fxZdo",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5BRjJDODk5REM0NjkzMUIy",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        ,"channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+            "channelTitle": "MOOCs by OUIL",
+            "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+            "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+            "position": 10,
+            "publishedAt": "2014-12-29T07:59:19Z",
+            "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 3 \u05d4\u05e8\u05e6\u05d0\u05d4 1: \u05de\u05d1\u05d5\u05d0 \u05d5\u05e1\u05e7\u05d9\u05e8\u05d4 \u05db\u05dc\u05dc\u05d9\u05ea",
+            "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+            "videoOwnerChannelTitle": "MOOCs by OUIL",
+            "thumbnails": {
+              "default": {
+                "height": 90,
+                "url": "https:\/\/i.ytimg.com\/vi\/hJsvg1yGGX0\/default.jpg",
+                "width": 120
+              },
+              "medium": {
+                "height": 180,
+                "url": "https:\/\/i.ytimg.com\/vi\/hJsvg1yGGX0\/mqdefault.jpg",
+                "width": 320
+              },
+              "high": {
+                "height": 360,
+                "url": "https:\/\/i.ytimg.com\/vi\/hJsvg1yGGX0\/hqdefault.jpg",
+                "width": 480
+              },
+              "standard": {
+                "height": 480,
+                "url": "https:\/\/i.ytimg.com\/vi\/hJsvg1yGGX0\/sddefault.jpg",
+                "width": 640
+              },
+              "maxres": {
+                "height": 720,
+                "url": "https:\/\/i.ytimg.com\/vi\/hJsvg1yGGX0\/maxresdefault.jpg",
+                "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "hJsvg1yGGX0"
+        }
+      }
+    },
+    {
+      "etag": "ulX-Ht8_ijdGYIRjsI_-LGRApUE",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy4xOTEzQzhBQzU3MDNDNjcz",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 11,
+        "publishedAt": "2014-12-29T07:59:19Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 3 \u05d4\u05e8\u05e6\u05d0\u05d4 3:  \u05d4\u05e8\u05e7\u05e2 \u05dc\u05e8\u05e6\u05d7 \u05d4\u05e2\u05dd \u05d4\u05d0\u05e8\u05de\u05e0\u05d9",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/F1xo7h1KicM\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/F1xo7h1KicM\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/F1xo7h1KicM\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/F1xo7h1KicM\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/F1xo7h1KicM\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "F1xo7h1KicM"
+        }
+      }
+    },
+    {
+      "etag": "oSrGNivgr4btJI1aI-Vkg2DE0x0",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5GNDg1Njc1QzZERjlFRjE5",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 12,
+        "publishedAt": "2014-12-29T07:59:19Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 3 \u05d4\u05e8\u05e6\u05d0\u05d4 4:  1915- \u05e8\u05e6\u05d7 \u05d4\u05e2\u05dd \u05d4\u05d0\u05e8\u05de\u05e0\u05d9",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/svwY4mXhB60\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/svwY4mXhB60\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/svwY4mXhB60\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/svwY4mXhB60\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/svwY4mXhB60\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "svwY4mXhB60"
+        }
+      }
+    },
+    {
+      "etag": "F1MRl_X_7BNu-RIxL5LTn17AGsU",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy4zQzFBN0RGNzNFREFCMjBE",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 13,
+        "publishedAt": "2014-12-29T07:59:19Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 3 \u05d4\u05e8\u05e6\u05d0\u05d4 5: \u05e8\u05d0\u05d9\u05d5\u05df \u05e2\u05dd \u05e4\u05e8\u05d5\u05e4' \u05d9\u05d0\u05d9\u05e8 \u05d0\u05d5\u05e8\u05d5\u05df, \u05de\u05d7\u05d1\u05e8 \u05d4\u05e1\u05e4\u05e8 \"\u05e8\u05e6\u05d7 \u05d4\u05e2\u05dd \u05d4\u05d0\u05e8\u05de\u05e0\u05d9- \u05d4\u05db\u05d7\u05e9\u05d4 \u05d5\u05d4\u05e9\u05db\u05d7\u05d4\".",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/l8VwvRnddwk\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/l8VwvRnddwk\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/l8VwvRnddwk\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/l8VwvRnddwk\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/l8VwvRnddwk\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "l8VwvRnddwk"
+        }
+      }
+    },
+    {
+      "etag": "cVNYvBzX3RXPxDQtI15WYOhGCek",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy43MTI1NDIwOTMwQjIxMzNG",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 14,
+        "publishedAt": "2014-12-29T07:59:17Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 4 \u05d4\u05e8\u05e6\u05d0\u05d4 1: \u05de\u05d1\u05d5\u05d0 \u05d5\u05e1\u05e7\u05d9\u05e8\u05d4 \u05db\u05dc\u05dc\u05d9\u05ea",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/79OB3w5euVI\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/79OB3w5euVI\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/79OB3w5euVI\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/79OB3w5euVI\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/79OB3w5euVI\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "79OB3w5euVI"
+        }
+      }
+    },
+    {
+      "etag": "KMPKB1dYkbvzjZ-IMEHmj3yrDD8",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy45NkVENTkxRDdCQUFBMDY4",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 15,
+        "publishedAt": "2014-12-29T09:07:10Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 1 \u05d4\u05e8\u05e6\u05d0\u05d4 4: \u05de\u05e7\u05e8\u05d9 \u05d1\u05d5\u05d7\u05df",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/bnx-aQHsWyU\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/bnx-aQHsWyU\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/bnx-aQHsWyU\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/bnx-aQHsWyU\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/bnx-aQHsWyU\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "bnx-aQHsWyU"
+        }
+      }
+    },
+    {
+      "etag": "s-jMlxy0Wok5CFKA3HEFkoS8lqI",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5DNkMwRUI2MkI4QkI4NDFG",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 16,
+        "publishedAt": "2014-12-29T09:07:40Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 1 \u05d4\u05e8\u05e6\u05d0\u05d4 3: \u05ea\u05e0\u05d0\u05d9\u05dd \u05de\u05e7\u05d3\u05d9\u05de\u05d9\u05dd \u05d5\u05de\u05d5\u05e9\u05d2\u05d9 \u05d9\u05e1\u05d5\u05d3",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/yk_owH2dZ9U\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/yk_owH2dZ9U\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/yk_owH2dZ9U\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/yk_owH2dZ9U\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/yk_owH2dZ9U\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "yk_owH2dZ9U"
+        }
+      }
+    },
+    {
+      "etag": "PNf1m1TAzGfKmaRbHix7vLaWkVg",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5DRUQwODMxQzUyRTlGRkY3",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 17,
+        "publishedAt": "2014-12-29T09:11:47Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 2 \u05d4\u05e8\u05e6\u05d0\u05d4 3: \u05de\u05e7\u05d5\u05dc\u05d5\u05e0\u05d9\u05d0\u05dc\u05d9\u05d6\u05dd \u05dc\u05e2\u05e6\u05de\u05d0\u05d5\u05ea- \u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d4\u05e8\u05d0\u05e9\u05d5\u05e0\u05d4 \u05d5\u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d4\u05e9\u05e0\u05d9\u05d9\u05d4",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/ycJtenQxc-Y\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/ycJtenQxc-Y\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/ycJtenQxc-Y\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/ycJtenQxc-Y\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/ycJtenQxc-Y\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "ycJtenQxc-Y"
+        }
+      }
+    },
+    {
+      "etag": "RJLYl396Zz-Q9pqpcomXuL5qw4s",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy41MzY4MzcwOUFFRUU3QzEx",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 18,
+        "publishedAt": "2014-12-29T09:14:22Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 2 \u05d4\u05e8\u05e6\u05d0\u05d4 5: \u05e8\u05d0\u05d9\u05d5\u05df \u05e2\u05dd \u05e4\u05e8\u05d5\u05e4' \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e0\u05d5\u05d9\u05d1\u05e8\u05d2\u05e8",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/ZwTpBq0hCTU\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/ZwTpBq0hCTU\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/ZwTpBq0hCTU\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/ZwTpBq0hCTU\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/ZwTpBq0hCTU\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "ZwTpBq0hCTU"
+        }
+      }
+    },
+    {
+      "etag": "OnRq8NXuZxFPb32-hiTXgkxhVJ8",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy4yQjZFRkExQjFGODk3RUFD",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 19,
+        "publishedAt": "2014-12-29T09:16:59Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 3 \u05d4\u05e8\u05e6\u05d0\u05d4 2: \u05e2\u05dc\u05d9\u05d9\u05ea \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05d5\u05ea \u05d4\u05d0\u05e8\u05de\u05e0\u05d9\u05ea",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/29tSGHcpOFI\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/29tSGHcpOFI\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/29tSGHcpOFI\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/29tSGHcpOFI\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/29tSGHcpOFI\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "29tSGHcpOFI"
+        }
+      }
+    },
+    {
+      "etag": "zYh0OpH8GmiR_7jabQvJ8XgHfGU",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy4yQUJFNUVCMzVDNjcxRTlF",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 20,
+        "publishedAt": "2014-12-29T09:24:41Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 4 \u05d4\u05e8\u05e6\u05d0\u05d4 3: \u05e9\u05d5\u05e8\u05e9\u05d9 \u05d4\u05d2\u05d6\u05e2\u05e0\u05d5\u05ea \u05d4\u05e0\u05d0\u05e6\u05d9\u05ea \u05d5\u05d4'\u05de\u05d9\u05ea\u05d5\u05e1 \u05d4\u05d0\u05e8\u05d9': \u05de\u05d3\u05d5\u05e2 \u05e0\u05d7\u05e9\u05d1\u05d5 \u05d4\u05e1\u05d9\u05e0\u05d8\u05d9 \u05dc\u05d0\u05e8\u05d9\u05d9\u05dd?",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/4wmnNUk7E80\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/4wmnNUk7E80\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/4wmnNUk7E80\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/4wmnNUk7E80\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/4wmnNUk7E80\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "4wmnNUk7E80"
+        }
+      }
+    },
+    {
+      "etag": "7alj8JshTQdPICU9g3dxBA-vRa4",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy40QzRDOEU0QUYwNUIxN0M1",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 21,
+        "publishedAt": "2014-12-29T09:28:39Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 4 \u05d4\u05e8\u05e6\u05d0\u05d4 4: \u05d4\u05e6\u05d5\u05e2\u05e0\u05d9\u05dd \u05d1\u05d2\u05e8\u05de\u05e0\u05d9\u05d4 \u05e9\u05dc \u05e9\u05e0\u05d5\u05ea \u05d4-30",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/DQjhwKLggtM\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/DQjhwKLggtM\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/DQjhwKLggtM\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/DQjhwKLggtM\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/DQjhwKLggtM\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "DQjhwKLggtM"
+        }
+      }
+    },
+    {
+      "etag": "erpC1-zpQSVjg8jPciPj5TqQ74I",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4:  http:\/\/mooc.openu.ac.il",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 22,
+        "publishedAt": "2014-12-29T07:59:17Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 5 \u05d4\u05e8\u05e6\u05d0\u05d4 2: \u05db\u05d9\u05d1\u05d5\u05e9 \u05d4\u05d9\u05d1\u05e9\u05ea - \u05e7\u05d5\u05e8\u05d8\u05e1 \u05d5\u05e4\u05d9\u05e1\u05d0\u05e8\u05d5",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/44CDpuA9jrw\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/44CDpuA9jrw\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/44CDpuA9jrw\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/44CDpuA9jrw\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/44CDpuA9jrw\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "44CDpuA9jrw"
+        }
+      }
+    },
+    {
+      "etag": "tQIKcWKPcTjZq6FBY5491tbbvuU",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy41RTNBREYwMkI5QzU3RkY2",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\u05e8\u05d0\u05d9\u05d5\u05df \u05e2\u05dd \u05d3\"\u05e8 \u05d0\u05d9\u05ea\u05df \u05d2\u05d9\u05e0\u05d6\u05d1\u05d5\u05e8\u05d2, \u05de\u05d7\u05d1\u05e8 \u05d4\u05e1\u05e4\u05e8 \"\u05de\u05e4\u05d2\u05e9 \u05d5\u05e2\u05d9\u05de\u05d5\u05ea- \u05d4\u05e9\u05de\u05d3\u05ea \u05d4\u05e2\u05de\u05d9\u05dd \u05d4\u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9\u05dd \u05e9\u05dc \u05d0\u05de\u05e8\u05d9\u05e7\u05d4 \u05d4\u05e1\u05e4\u05e8\u05d3\u05d9\u05ea\". \n\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 23,
+        "publishedAt": "2014-12-29T09:33:49Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 5 \u05d4\u05e8\u05e6\u05d0\u05d4 3: \u05d3\"\u05e8 \u05d0\u05d9\u05ea\u05df \u05d2\u05d9\u05e0\u05d6\u05d1\u05d5\u05e8\u05d2, \u05de\u05d7\u05d1\u05e8 \" \u05de\u05e4\u05d2\u05e9 \u05d5\u05e2\u05d9\u05de\u05d5\u05ea ... \"",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/m8op2MogH9k\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/m8op2MogH9k\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/m8op2MogH9k\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/m8op2MogH9k\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/m8op2MogH9k\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "m8op2MogH9k"
+        }
+      }
+    },
+    {
+      "etag": "QkMa4SSExTlMh6BKcmBZ3TLZnC0",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy5ENjI1QUI0MDI5NEQzODFE",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 24,
+        "publishedAt": "2014-12-29T09:40:21Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 5 \u05d4\u05e8\u05e6\u05d0\u05d4 4: \u05d4\u05e2\u05de\u05d9\u05dd \u05d4\u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9\u05dd \u05e9\u05dc \u05e6\u05e4\u05d5\u05df \u05d0\u05de\u05e8\u05d9\u05e7\u05d4 - \u05de\u05d1\u05d5\u05d0",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/J3pL4wTI2gs\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/J3pL4wTI2gs\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/J3pL4wTI2gs\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/J3pL4wTI2gs\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/J3pL4wTI2gs\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "J3pL4wTI2gs"
+        }
+      }
+    },
+    {
+      "etag": "voYYCJefN7oddl3FKXW5AX5Wewg",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy4yQUE2Q0JEMTk4NTM3RTZC",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 25,
+        "publishedAt": "2014-12-29T07:59:17Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 5 \u05d4\u05e8\u05e6\u05d0\u05d4 5: \u05d4\u05de\u05d0\u05d4 \u05d4-19 - \u05d4\u05e9\u05de\u05d3\u05d4",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/btE8vHXJ07c\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/btE8vHXJ07c\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/btE8vHXJ07c\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/btE8vHXJ07c\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/btE8vHXJ07c\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "btE8vHXJ07c"
+        }
+      }
+    },
+    {
+      "etag": "REJRxrooPnrkub_iyAaXWqdyCB0",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy44QzVGQUU2QjE2NDgxM0M4",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05e8\u05e6\u05d7-\u05e2\u05dd)\" \u05d4\u05d5\u05d0 \u05e7\u05d5\u05e8\u05e1 \u05e4\u05ea\u05d5\u05d7 \u05d5\u05d7\u05d9\u05e0\u05de\u05d9 \u05d4\u05de\u05d5\u05e6\u05e2 \u05e2\"\u05d9 \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 - \u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9. \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 26,
+        "publishedAt": "2014-12-29T09:42:24Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3: \u05e9\u05d1\u05d5\u05e2 5 \u05d4\u05e8\u05e6\u05d0\u05d4 6: \u05e1\u05d9\u05db\u05d5\u05dd \u05d5\u05e4\u05e8\u05d9\u05d3\u05d4",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/iV1OfrGO94o\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/iV1OfrGO94o\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/iV1OfrGO94o\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/iV1OfrGO94o\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/iV1OfrGO94o\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "iV1OfrGO94o"
+        }
+      }
+    },
+    {
+      "etag": "HQqep5ZG7k79dOFNFpy8MoBUxQ4",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy4xMzgwMzBERjQ4NjEzNUE5",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "\u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05d4\u05e8\u05e9\u05de\u05d4: http:\/\/mooc.openu.ac.il\/genocide2_he.html\n\u05e7\u05d5\u05e8\u05e1 \"\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 \u2013 \u05e8\u05e6\u05d7-\u05e2\u05dd\" \u05e9\u05dc \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4 \u05de\u05ea\u05d7\u05d9\u05dc \u05d1- 1.1.2015\n\u05d4\u05e7\u05d5\u05e8\u05e1 (\u05d1\u05e2\u05d1\u05e8\u05d9\u05ea)  \u05de\u05d5\u05e6\u05e2 \u05dc\u05e6\u05d9\u05d1\u05d5\u05e8 \u05d4\u05e8\u05d7\u05d1 \u05d1\u05d7\u05d9\u05e0\u05dd, \u05d1\u05d0\u05de\u05e6\u05e2\u05d5\u05ea \u05e8\u05e9\u05ea \u05d4\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8, \u05db\u05e7\u05d5\u05e8\u05e1 \u05d4\u05e2\u05e9\u05e8\u05d4, \u05dc\u05dc\u05d0 \u05d3\u05e8\u05d9\u05e9\u05d5\u05ea \u05e7\u05d3\u05dd \u05d5\u05dc\u05dc\u05d0 \u05e7\u05e8\u05d3\u05d9\u05d8 \u05d0\u05e7\u05d3\u05de\u05d9 (\u05d1\u05de\u05ea\u05db\u05d5\u05e0\u05ea MOOC \u2013 Massive Open Online Course) .  \u05de\u05e9\u05da \u05d4\u05e7\u05d5\u05e8\u05e1: 5 \u05e9\u05d1\u05d5\u05e2\u05d5\u05ea. \u05d1\u05dc\u05de\u05d9\u05d3\u05d4 \u05e2\u05e6\u05de\u05d0\u05d9\u05ea \u05d5\u05d1\u05e7\u05e6\u05d1 \u05d0\u05d9\u05e9\u05d9.",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 27,
+        "publishedAt": "2014-12-31T08:31:23Z",
+        "title": "\u05d2'\u05e0\u05d5\u05e1\u05d9\u05d9\u05d3 (\u05d1\u05e2\u05d1\u05e8\u05d9\u05ea) - \u05d4\u05db\u05e8\u05d5\u05ea \u05e2\u05dd \u05d0\u05ea\u05e8 \u05d4\u05e7\u05d5\u05e8\u05e1",
+        "videoOwnerChannelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "videoOwnerChannelTitle": "MOOCs by OUIL",
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https:\/\/i.ytimg.com\/vi\/Neau-Uu8qRE\/default.jpg",
+            "width": 120
+          },
+          "medium": {
+            "height": 180,
+            "url": "https:\/\/i.ytimg.com\/vi\/Neau-Uu8qRE\/mqdefault.jpg",
+            "width": 320
+          },
+          "high": {
+            "height": 360,
+            "url": "https:\/\/i.ytimg.com\/vi\/Neau-Uu8qRE\/hqdefault.jpg",
+            "width": 480
+          },
+          "standard": {
+            "height": 480,
+            "url": "https:\/\/i.ytimg.com\/vi\/Neau-Uu8qRE\/sddefault.jpg",
+            "width": 640
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https:\/\/i.ytimg.com\/vi\/Neau-Uu8qRE\/maxresdefault.jpg",
+            "width": 1280
+          }
+        },
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "Neau-Uu8qRE"
+        }
+      }
+    },
+    {
+      "etag": "-D0ZOI7NAKB34kV6jrHW7Xuo_qA",
+      "id": "UExPemItb3RuT0RhTUtucVpOM2owUDNScVNzT0VSWV9USy45NzUwQkI1M0UxNThBMkU0",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCZnjaU2W0YZ-6n-CRiaCikQ",
+        "channelTitle": "MOOCs by OUIL",
+        "description": "This video is private.",
+        "playlistId": "PLOzb-otnODaMKnqZN3j0P3RqSsOERY_TK",
+        "position": 28,
+        "publishedAt": "2014-12-01T10:53:06Z",
+        "title": "Private video",
+        "videoOwnerChannelId": null,
+        "videoOwnerChannelTitle": null,
+        "thumbnails": {},
+        "resourceId": {
+          "channelId": null,
+          "kind": "youtube#video",
+          "playlistId": null,
+          "videoId": "DGyOI_VN55E"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "resultsPerPage": 50,
+    "totalResults": 29
+  }
+}
